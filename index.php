@@ -8,4 +8,3 @@
 
 echo "Test";
 
-echo 'hi';
